@@ -13,7 +13,7 @@
 
 🌐 Visit my porfolio website for complete background and contact.
 
-- ⚡ Fun fact: **Coffee over morning kiss.period.**
+- ⚡ Fun fact: **Coffee over morning kiss! period.**
 
 <br>
 🚀 Few tech that I enjoy working in are :
