@@ -4,7 +4,14 @@ I am a full stack developer at Code Institute who is passionate about learning n
 <br><br><br>
 🚀 Few tech that I enjoy working in are :
 
-<img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white" /> and <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black" />
+![HTML](https://github.com/KirstChat/KirstChat/blob/master/images/html.png)
+![CSS](https://github.com/KirstChat/KirstChat/blob/master/images/css.png)
+![Bootstrap](https://github.com/KirstChat/KirstChat/blob/master/images/bootstrap.png)
+![JavaScript](https://github.com/KirstChat/KirstChat/blob/master/images/javascript.png)
+![VS Code](https://github.com/KirstChat/KirstChat/blob/master/images/vscode.png)
+![Git](https://github.com/KirstChat/KirstChat/blob/master/images/git.png)
+![GitHub](https://github.com/KirstChat/KirstChat/blob/master/images/github.png)
+![GitPod](https://github.com/KirstChat/KirstChat/blob/master/images/gitpod.png)
 <br><br>
 
 👨🏽‍💻 I'm currently learning new langugaes and working on my Projects.
