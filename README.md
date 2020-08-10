@@ -1,27 +1,17 @@
+  
+<h1 align="center">Hi 👋, I'm Sami</h1>
+<h3 align="center">I am a passionate full stack developer at Code Institute </h3>
+
 
 👨🏽‍💻 I'm currently learning new langugaes and working on my Projects.
 
-🤝 Open for collaborations in deep learning, analytics and data science.
+🤝 Open for collaborations in deep learning and discussions.
 
 😊 I'm always willing to contribute in opensource projects.
 
 👍 After i finish my studies, I'm planing to work in IT company.
 
 🌐 Visit my porfolio website for complete background and contact.
-<br><br>
-📱 Contact
-Feel free to contact me on:
- <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />    
-<br><br>     
-![Github stats](https://github-readme-stats.vercel.app/api?username=sami-sinnari)
-
-
-<h1 align="center">Hi 👋, I'm Sami</h1>
-<h3 align="center">I am a passionate full stack developer at Code Institute </h3>
-
-- 🔭 I’m currently working on **various Projects for my studies**
-
-- 📫 How to reach me **samisinnari@gmail.com**
 
 - ⚡ Fun fact **Coffee over morning kiss**
 
@@ -32,3 +22,5 @@ Feel free to contact me on:
 <a href="https://linkedin.com/in/sami el sinnari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sami el sinnari" height="30" width="30" /></a>
 <a href="https://instagram.com/sami-sinnari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sami-sinnari" height="30" width="30" /></a>
 </p>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=sami-sinnari)
