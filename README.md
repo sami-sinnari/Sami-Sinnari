@@ -22,6 +22,8 @@
 
 ![Sami's github stats](https://github-readme-stats.vercel.app/api?username=sami-sinnari&theme=shades-of-purple&hide=stars)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sami-sinnari&layout=compact)](https://github.com/sami-sinnari/github-readme-stats)
+
 <a href="https://twitter.com/samisinnari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="samisinnari" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/sami el sinnari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sami el sinnari" height="30" width="30" /></a>
 <a href="https://instagram.com/sami-sinnari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sami-sinnari" height="30" width="30" /></a>
