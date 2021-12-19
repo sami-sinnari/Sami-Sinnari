@@ -4,9 +4,9 @@
 
 
 <h4 align="left"> Little about me, huh? <h4>
-  <br>
+
 👨🏽‍💻 I'm alawy learning new langugaes and working on my Projects.
-<br>
+  
 🤝 Open for collaborations in deep learning and discussions.
 
 😊 I'm always willing to contribute in open source projects.
