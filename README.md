@@ -1,6 +1,6 @@
   
 <h1 align="center">Sup, Nerds!👋</h1>
-<h3 align="center">Junior Software engineer here.</h3> <br>
+<h3 align="center">Junior Software Engineer here.</h3> <br>
 
 
 <h4 align="left"> Little about me, huh? <h4>
