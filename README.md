@@ -19,7 +19,7 @@
 
 <br>
 🚀 Few tech that I enjoy working in are :
-<br>
+<br><br><br>
 🤝 Javascript 🤝 HTML/CSS 🤝 Python & Django 🤝 ReactJS 🤝 NodeJS 🤝 ... and bunch of other libraries.
 <br>
   <br>
