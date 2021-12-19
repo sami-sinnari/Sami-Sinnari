@@ -4,7 +4,7 @@
 
 
 <h4 align="left"> Little about me, huh? <h4>
-  
+  <br>
 👨🏽‍💻 I'm alawy learning new langugaes and working on my Projects.
 
 🤝 Open for collaborations in deep learning and discussions.
@@ -19,8 +19,8 @@
 
 <br>
 🚀 Few tech that I enjoy working in are :
-
+<br>
 🤝 Javascript 🤝 HTML/CSS 🤝 Python & Django 🤝 ReactJS 🤝 NodeJS 🤝 ... and bunch of other libraries.
-
+<br>
   
 <p align="center"> soooo, I hope you find what you're looking for cuz my profile is full of awesome stuff like myself 😊 <p>
