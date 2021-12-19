@@ -6,7 +6,7 @@
 <h4 align="left"> Little about me, huh? <h4>
   <br>
 👨🏽‍💻 I'm alawy learning new langugaes and working on my Projects.
-
+<br>
 🤝 Open for collaborations in deep learning and discussions.
 
 😊 I'm always willing to contribute in open source projects.
@@ -19,7 +19,7 @@
 
 <br>
 🚀 Few tech that I enjoy working in are :
-<br><br><br>
+<br><br>
 🤝 Javascript 🤝 HTML/CSS 🤝 Python & Django 🤝 ReactJS 🤝 NodeJS 🤝 ... and bunch of other libraries.
 <br>
   <br>
