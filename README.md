@@ -1,6 +1,6 @@
   
-<h1 align="center">Hi 👋, I'm Sami</h1>
-<h3 align="center">I'm studing full stack development course at Code Institute </h3> <br>
+<h1 align="center">Sup, Nerds!👋</h1>
+<h3 align="center">Software engineer here.</h3> <br>
 
 
 👨🏽‍💻 I'm currently learning new langugaes and working on my Projects.
