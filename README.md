@@ -22,5 +22,5 @@
 <br>
 🤝 Javascript 🤝 HTML/CSS 🤝 Python & Django 🤝 ReactJS 🤝 NodeJS 🤝 ... and bunch of other libraries.
 <br>
-  
-<p align="center"> soooo, I hope you find what you're looking for cuz my profile is full of awesome stuff like myself 😊 <p>
+  <br>
+<br><p align="center"> soooo, I hope you find what you're looking for cuz my profile is full of awesome stuff like myself 😊 <p>
