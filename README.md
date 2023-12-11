@@ -1,6 +1,5 @@
   
 <h1 align="center">Sup, Nerds!👋</h1>
-<h3 align="center">Junior Software Engineer here.</h3> <br>
 
 
 <h4 align="left"> Little about me, huh? <h4>
@@ -11,7 +10,6 @@
 
 😊 I'm always willing to contribute in open source projects.
 
-👍 I'm currently looking for a junior position in front-end development.
 
 🌐 Visit my porfolio website for complete background and contact.
 
